@@ -1,0 +1,11 @@
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151006,2015,10,6);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151007,2015,10,7);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151008,2015,10,8);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151009,2015,10,9);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151010,2015,10,10);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151012,2015,10,12);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151013,2015,10,13);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151014,2015,10,14);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151015,2015,10,15);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151016,2015,10,16);
+INSERT INTO DimDate(id_date,annee,mois,jour) VALUES (20151103,2015,11,3);

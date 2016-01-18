@@ -1,0 +1,7 @@
+CREATE TABLE DimNavigateur(
+   id_navigateur  INTEGER  NOT NULL PRIMARY KEY
+  ,nom_navigateur VARCHAR(15) NOT NULL
+  ,version        VARCHAR(6) NOT NULL
+  ,OS             VARCHAR(13) NOT NULL
+  ,addon          VARCHAR(8) NOT NULL
+);
